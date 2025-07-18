@@ -16,7 +16,7 @@ The notebook (`spain_vs_europe_2024.ipynb`) performs an in-depth comparative sta
 - Offensive metrics across top midfielders
 
 📘 A full report of this analysis is available here:  
-👉 [Read the Full PDF Report](./Jaime_Tellie___Sports_Data_Campus_Module_3__Individual_Assignment.pdf)
+👉 [Read the Full PDF Report](docs/Jaime_Tellie___Sports_Data_Campus_Module_3__Individual_Assignment.pdf)
 
 ---
 
